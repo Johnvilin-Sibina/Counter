@@ -1,8 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Counter Function:</h1>
+<ul>
+  <li>
+    This counter function is done using useReducer
+  </li>
+</ul>
+<h4>Deployment URL:</h4>
+<a href="https://startling-bublanina-55ce2c.netlify.app/">https://startling-bublanina-55ce2c.netlify.app/</a>
