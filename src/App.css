@@ -1,0 +1,19 @@
+.heading{
+  font-style: italic;
+  font-size: 36px;
+  color: blueviolet;
+}
+.main{
+  border: 1px solid black;
+  height: 25vh;
+  width: 40vw;
+  margin: 30%;
+  border-radius: 10px;
+  background-color: beige;
+}
+.display{
+ height: 10%;
+ width: 5%;
+ border: 1px solid green;
+ border-radius: 5px;
+}
